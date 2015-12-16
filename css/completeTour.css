@@ -1,0 +1,109 @@
+.song:nth-child(95) {
+    margin-left: 8px;
+}
+
+.song:nth-child(2),
+.song:nth-child(9),
+.song:nth-child(20),
+.song:nth-child(27),
+.song:nth-child(38),
+.song:nth-child(45),
+.song:nth-child(56),
+.song:nth-child(63),
+.song:nth-child(84),
+.song:nth-child(89),
+.song:nth-child(91) {
+    margin-left: 9px;
+}
+
+.song:nth-child(3),
+.song:nth-child(21),
+.song:nth-child(39),
+.song:nth-child(57),
+.song:nth-child(85) {
+    margin-left: 1px;
+}
+
+.song:nth-child(4),
+.song:nth-child(7),
+.song:nth-child(12),
+.song:nth-child(14),
+.song:nth-child(16),
+.song:nth-child(19),
+.song:nth-child(22),
+.song:nth-child(25),
+.song:nth-child(30),
+.song:nth-child(32),
+.song:nth-child(34),
+.song:nth-child(37),
+.song:nth-child(40),
+.song:nth-child(43),
+.song:nth-child(48),
+.song:nth-child(50),
+.song:nth-child(52),
+.song:nth-child(55),
+.song:nth-child(58),
+.song:nth-child(61),
+.song:nth-child(66),
+.song:nth-child(68),
+.song:nth-child(70),
+.song:nth-child(73),
+.song:nth-child(75),
+.song:nth-child(77),
+.song:nth-child(80),
+.song:nth-child(83),
+.song:nth-child(86),
+.song:nth-child(88),
+.song:nth-child(94),
+.song:nth-child(96),
+.song:nth-child(98),
+.song:nth-child(101) {
+    margin-left: 3px;
+}
+
+.song:nth-child(5),
+.song:nth-child(11),
+.song:nth-child(23),
+.song:nth-child(29),
+.song:nth-child(41),
+.song:nth-child(47),
+.song:nth-child(59),
+.song:nth-child(65),
+.song:nth-child(87),
+.song:nth-child(93) {
+    margin-left: 10px;
+}
+
+.song:nth-child(6),
+.song:nth-child(13),
+.song:nth-child(17),
+.song:nth-child(24),
+.song:nth-child(31),
+.song:nth-child(35),
+.song:nth-child(42),
+.song:nth-child(49),
+.song:nth-child(53),
+.song:nth-child(60),
+.song:nth-child(67),
+.song:nth-child(71),
+.song:nth-child(74),
+.song:nth-child(78),
+.song:nth-child(81),
+.song:nth-child(99) {
+    margin-left: 6px;
+}
+
+.song:nth-child(10),
+.song:nth-child(18),
+.song:nth-child(28),
+.song:nth-child(36),
+.song:nth-child(46),
+.song:nth-child(54),
+.song:nth-child(64),
+.song:nth-child(72),
+.song:nth-child(79),
+.song:nth-child(82),
+.song:nth-child(92),
+.song:nth-child(100) {
+    margin-left: 2px;
+}
